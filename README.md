@@ -1,6 +1,7 @@
 # ng-simple-webrtc
 
 > AngularJS wrapper for SimpleWebRTC client from https://simplewebrtc.com/
+> https://github.com/putraxor/ng-simple-webrtc
 
 [![NPM][npm-icon] ][npm-url]
 [![Circle CI][circle-ci-icon] ][circle-ci-url]
